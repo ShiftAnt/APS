@@ -6,7 +6,7 @@
 ```json
 ID: {   
     "BeakJoon": "roal4611",   
-    "SW_Expert": "3기/광주/3반/김지웅"   
+    "SW_Expert": "3기/광주/3반/김지웅"
 }
 ```
 
